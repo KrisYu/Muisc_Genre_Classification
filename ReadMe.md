@@ -17,7 +17,7 @@ In addtion, I collected 4 * 20 songs from Free Music Archive <http://freemusicar
 
 ##### SOX
 
-The GTZAN Dataset is in AU format, you need SOX to change it to wav:
+The GTZAN Dataset is in AU format, you need install SOX to change it to wav:
 
 <https://github.com/JoFrhwld/FAVE/wiki/SoX-on-OS-X>
 
@@ -60,8 +60,14 @@ chmod 755 copy.sh
 
 
 
-### Learning and Applying
+### Learning and Applying Phase
 
-Read my [Report][id] for further information
+This [iPython notebook][id0] contains the code I used to learn and apply.
 
-[id]:https://github.com/KrisYu/Muisc_Genre_Classification/blob/master/Music_Genre_Classification_report.pdf
+[id0]:https://github.com/KrisYu/Muisc_Genre_Classification/blob/master/Music%20Genre%20Classification%20-%20is%20machine%20learning%20really%20learn%3F.ipynb
+
+### Results
+
+Results are in my [Report][id1] 
+
+[id1]:https://github.com/KrisYu/Muisc_Genre_Classification/blob/master/Music_Genre_Classification_report.pdf
