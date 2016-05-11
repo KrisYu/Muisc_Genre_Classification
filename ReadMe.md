@@ -60,8 +60,8 @@ chmod 755 copy.sh
 
 
 
-### Learning Phase
+### Learning and Applying
 
-### Applying Phase
+Read my [Report][id] for further information
 
-see my 
+[id]:https://github.com/KrisYu/Muisc_Genre_Classification/blob/master/Music_Genre_Classification_report.pdf
